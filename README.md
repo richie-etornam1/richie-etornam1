@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richie-etornam1
 - 👀 I’m interested in ... learning HTML, CSS, JavaScript
 - 🌱 I’m currently learning... HTML, CSS, JavaScript 
-- 💞️ I’m looking to collaborate on ... building a beautiful websites together and learning from each other. 
+- 💞️ I’m looking to collaborate on ... building a beautiful websites. 
 - 📫 How to reach me ...
 IG: Richmond_blx
 Email/IMessage : Richmondamedekah@gmail.com
